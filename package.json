@@ -1,0 +1,29 @@
+{
+  "name": "epm-rest",
+  "version": "1.0.0",
+  "description": "REST API for EPM repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dev/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dte-ba/epm-rest.git"
+  },
+  "keywords": [
+    "epm",
+    "api"
+  ],
+  "author": "Dte-ba",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/Dte-ba/epm-rest/issues"
+  },
+  "homepage": "https://github.com/Dte-ba/epm-rest",
+  "dependencies" : {
+    "body-parser": "~1.12.0",
+    "express": "~4.12.2",
+    "epm": "latest"
+  }
+}
