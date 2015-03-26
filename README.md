@@ -10,6 +10,12 @@ Prefix api + info
 /api
 ```
 
+Repository information
+
+```
+/api/repository/:repositoryname
+```
+
 ## Licencia
 
 Copyright(c) 2015 Dirección de Tecnología Educativa de Buenos Aires (Dte-ba)

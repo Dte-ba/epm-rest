@@ -21,9 +21,12 @@
     "url": "https://github.com/Dte-ba/epm-rest/issues"
   },
   "homepage": "https://github.com/Dte-ba/epm-rest",
-  "dependencies" : {
+  "dependencies": {
     "body-parser": "~1.12.0",
     "express": "~4.12.2",
     "epm": "latest"
+  },
+  "devDependencies": {
+    "exectimer": "^1.0.1"
   }
 }
